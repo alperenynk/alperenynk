@@ -1,10 +1,4 @@
-## Hi there 👋
-
 <!--
-**alperenynk/alperenynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Alperen! 👋🏻
+
+🎓 Studying Informations Systems Engineering at the University of Piri Reis, İstanbul<br/>
+🌱 Currently improving my Java skills and exploring backend development<br/>
+🚀 Passionate about building useful and scalable applications<br/>
+📫 You can reach me at: [alperenyanik@hotmail.com]
