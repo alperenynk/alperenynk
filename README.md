@@ -28,6 +28,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b><br><br>
   <img src="https://profile-counter.glitch.me/alperenynk/count.svg" />
 </p>
