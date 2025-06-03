@@ -1,7 +1,6 @@
-<br/><br/><br/>
 <img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM3czJsbWw0aGlyeHEzcXFmM2Nyc2dhODNsamFhZGdseTJiN2UwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-<br/><br/><br/>
+<br/>
 ### Hi, I'm Alperen! 👋🏻
 🎓 Studying Informations Systems Engineering at the University of Piri Reis, İstanbul<br/>
 🌱 Currently improving my Java skills and exploring backend development<br/>
