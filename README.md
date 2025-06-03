@@ -5,6 +5,8 @@
 🚀 Passionate about building useful and scalable applications<br/>
 📫 You can reach me at: [alperenyanik@hotmail.com]<br/>
 
+<img align="right" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM3czJsbWw0aGlyeHEzcXFmM2Nyc2dhODNsamFhZGdseTJiN2UwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alperenyanık/)
