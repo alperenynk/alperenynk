@@ -5,7 +5,7 @@
 🎓 Studying Informations Systems Engineering at the University of Piri Reis, İstanbul<br/>
 🌱 Currently improving my Java skills and exploring backend development<br/>
 🚀 Passionate about building useful and scalable applications<br/>
-📫 You can reach me at: [here](https://github.com/alperenynk/alperenynk/blob/main/README.md#-socials)<br/>
+📫 You can reach me at: [here](https://github.com/alperenynk#-socials)<br/>
 <br/><br/><br/>
 
 ## 🌐 Socials:
