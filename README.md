@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alperen%20Yanık&animation=fadeIn&desc='26&descAlign=75&descAlignY=61">
+</p>
+
+
 <img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM3czJsbWw0aGlyeHEzcXFmM2Nyc2dhODNsamFhZGdseTJiN2UwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 
